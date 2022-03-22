@@ -6,7 +6,7 @@ namespace GitConflictHandle
     {
         static void Main(string[] args)
         {
-            string nev = "1";
+            string nev = "dsadsa";
             string nev2 = "2";
 
         }
